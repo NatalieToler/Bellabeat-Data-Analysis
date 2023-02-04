@@ -7,10 +7,14 @@ Tableau Presentation to Skateholders
 
 In this case study I will be using the six steps of the data analysis process to complete a senerio. 
 
-Ask
-Prepare
+[Ask](#ask)
+
+[Prepare](#prepare)
+
 Process
+
 Analyze
+
 Act
 
 ## Background

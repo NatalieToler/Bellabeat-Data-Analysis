@@ -88,3 +88,4 @@ With the business task in mind, I'm going to focus on the Daily Activity, Daily 
 
 ## 3.  Process
 
+(See my cleaning process here)[https://github.com/NatalieToler/Bellabeat-Data-Analysis/blob/e0928e17061f1c595eb050c0bf3fa02501cbb62a/data-cleaning.ipynb]

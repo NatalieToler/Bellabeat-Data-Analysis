@@ -60,6 +60,7 @@ Structure of the Data:
 Using Excel I created pivot tables to get a snapshot of each table:
 
 | Table | Users | Days | Values Included |
+|-------|-------|------|-----------------|
 | Daily Activity | 33 | 31 | Steps, Distance, Intensities, and Calories |
 | Daily Calories | 33 | 31 | Calories |
 | Daily Intensities | 33 | 31 | Distance and Minutes of Sedentary, light, and Active intensity |
